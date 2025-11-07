@@ -1,0 +1,22 @@
+{
+    "Aarav": {
+        "Books": 2,
+        "Pens": 5,
+        "Total_Spent": 250
+    },
+    "Riya": {
+        "Books": 1,
+        "Pens": 2,
+        "Total_Spent": 120
+    },
+    "Kabir": {
+        "Books": 4,
+        "Pens": 6,
+        "Total_Spent": 480
+    },
+    "Sneha": {
+        "Books": 3,
+        "Pens": 1,
+        "Total_Spent": 210
+    }
+}

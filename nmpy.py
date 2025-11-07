@@ -1,5 +1,9 @@
-import numpy as np 
-a= np.array([1,2,3,4])
-b=np.array([2,6,3,9],)
+import pandas as pd
+data = {
+    'books': [2, 1, 4, 3],
+    'pens': [5, 2, 6, 1]
+}
 
-print(a+b)
+index_names = ['Aarav', 'Arush', 'Bharti', 'Sneha']
+df = pd.DataFrame(data, index=index_names)
+print(df)
